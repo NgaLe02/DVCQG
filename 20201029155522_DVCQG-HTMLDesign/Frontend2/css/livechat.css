@@ -783,7 +783,7 @@ body {
 }
 .vs-chat-popup .vs-chat-heading .title {
   font-weight: 13px;
-  color: #0655a2;
+  color: #075fb6;
   font-weight: bold;
   margin-bottom: 5px;
   display: block;
@@ -1068,7 +1068,7 @@ body {
   text-align: center;
 }
 .vs-chat-popup .bottom-chat .actions .btn:hover {
-  color: #0655a2;
+  color: #075fb6;
 }
 
 /*# sourceMappingURL=livechat.css.map */

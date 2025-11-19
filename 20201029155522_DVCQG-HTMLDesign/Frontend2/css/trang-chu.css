@@ -1,0 +1,121 @@
+.post-image img {
+  transition: transform 0.3s ease;
+}
+
+.post-image:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.box-content {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.box-content .col-sm-5,
+.box-content .col-sm-7 {
+  display: flex;
+  flex-direction: column;
+}
+.box-content img {
+  transition: transform 0.3s ease; /* tạo hiệu ứng mượt */
+}
+
+.box-content img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.targetgroup-box {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  border: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.box-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 25%;
+  height: 3px;
+  background: #0067c5;
+}
+
+.box-title {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.box-more {
+  font-size: 14px;
+  color: #0067c5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.main-post-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.main-post-description {
+  font-size: 14px;
+  color: #555;
+  margin-top: 8px;
+}
+
+.links.big-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.links.big-list li {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.big-list li {
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+}
+
+.big-list li a {
+  color: #000;
+  font-size: 15px;
+}
+
+.equal-box-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.equal-box {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.main-post-title:hover,
+.box-more,
+.links.big-list li a:hover {
+  color: #004998;
+  cursor: pointer;
+}
