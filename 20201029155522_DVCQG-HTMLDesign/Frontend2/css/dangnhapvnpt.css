@@ -1,32 +1,134 @@
 /* Fonts */
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Bold.woff") format("woff"), url("../fonts/Roboto-Bold.ttf") format("truetype"), url("../fonts/Roboto-Bold.svg#SFUFutura") format("svg");
+  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Bold.woff") format("woff"),
+    url("../fonts/Roboto-Bold.ttf") format("truetype"),
+    url("../fonts/Roboto-Bold.svg#SFUFutura") format("svg");
   font-weight: bold;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Light.woff") format("woff"), url("../fonts/Roboto-Light.ttf") format("truetype"), url("../fonts/Roboto-Light.svg#SFUFutura") format("svg");
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Light.woff") format("woff"),
+    url("../fonts/Roboto-Light.ttf") format("truetype"),
+    url("../fonts/Roboto-Light.svg#SFUFutura") format("svg");
   font-weight: 300;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Regular.woff") format("woff"), url("../fonts/Roboto-Regular.ttf") format("truetype"), url("../fonts/Roboto-Regular.svg#SFUFutura") format("svg");
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Regular.woff") format("woff"),
+    url("../fonts/Roboto-Regular.ttf") format("truetype"),
+    url("../fonts/Roboto-Regular.svg#SFUFutura") format("svg");
   font-weight: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Medium.woff") format("woff"), url("../fonts/Roboto-Medium.ttf") format("truetype"), url("../fonts/Roboto-Medium.svg#SFUFutura") format("svg");
+  src: url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Medium.woff") format("woff"),
+    url("../fonts/Roboto-Medium.ttf") format("truetype"),
+    url("../fonts/Roboto-Medium.svg#SFUFutura") format("svg");
   font-weight: 500;
 }
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
 }
 
@@ -34,20 +136,24 @@ body {
   line-height: 1;
 }
 
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
 
-blockquote, q {
+blockquote,
+q {
   quotes: none;
 }
 
-blockquote:before, blockquote:after {
+blockquote:before,
+blockquote:after {
   content: "";
   content: none;
 }
 
-q:before, q:after {
+q:before,
+q:after {
   content: "";
   content: none;
 }
@@ -65,7 +171,8 @@ a {
   color: inherit;
 }
 
-a:active, a:focus {
+a:active,
+a:focus {
   text-decoration: none;
   color: inherit;
 }
@@ -79,7 +186,9 @@ img {
   height: auto;
 }
 
-ol, ul, li {
+ol,
+ul,
+li {
   padding: 0px;
   list-style: none;
   margin: 0px;
@@ -255,11 +364,11 @@ example keyframes
 }
 
 .color-blue-bold {
-  color: #4B3C50;
+  color: #4b3c50;
 }
 
 .color-gray-bold {
-  color: #63676E;
+  color: #63676e;
 }
 
 .ovfh {
@@ -540,7 +649,7 @@ example keyframes
 
  */
 .link {
-  color: #2A6EBB;
+  color: #2a6ebb;
   display: inline-block;
 }
 .link:hover {
@@ -551,7 +660,7 @@ example keyframes
   background: #fff;
   padding-top: 30px;
   text-align: left;
-  border-top: 1px solid #C9CDCF;
+  border-top: 1px solid #c9cdcf;
 }
 .footer .logo-text {
   padding-top: 0px;
@@ -576,7 +685,7 @@ example keyframes
   .footer .col-xs-12 {
     width: 50%;
   }
-  .footer .col-xs-12:nth-child(2n+3) {
+  .footer .col-xs-12:nth-child(2n + 3) {
     clear: both;
   }
   .footer .col-cus-20 {
@@ -602,7 +711,7 @@ example keyframes
 .footer .top {
   padding: 10px 0px;
   margin-bottom: 30px;
-  border-bottom: 1px solid #E9F0F8;
+  border-bottom: 1px solid #e9f0f8;
 }
 .footer .top .content {
   width: 100%;
@@ -617,7 +726,7 @@ example keyframes
   display: table-cell;
   width: 50%;
   padding: 20px 20px;
-  border-left: 1px solid #E9F0F8;
+  border-left: 1px solid #e9f0f8;
 }
 .footer .top .item:first-child {
   border-left: 0px;
@@ -650,7 +759,7 @@ example keyframes
 }
 .footer .copyright {
   padding: 10px 0px;
-  background: #2A6EBB;
+  background: #2a6ebb;
   color: #fff;
   font-size: 14px;
   margin-top: 20px;
@@ -687,7 +796,7 @@ example keyframes
   .footer .col-xs-12 {
     width: 100%;
   }
-  .footer .col-xs-12:nth-child(2n+3) {
+  .footer .col-xs-12:nth-child(2n + 3) {
     clear: both;
   }
   .footer .col-cus-20 {
@@ -748,7 +857,7 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 22px;
-  color: #2A6EBB;
+  color: #2a6ebb;
 }
 .wrapper-login .header-logo .header-sologan {
   color: #5d5d5d;
@@ -763,7 +872,8 @@ body {
   height: auto;
   color: #000;
 }
-.wrapper-login .form-label-top.active .label-text, .wrapper-login .form-label-top.focus .label-text {
+.wrapper-login .form-label-top.active .label-text,
+.wrapper-login .form-label-top.focus .label-text {
   background: #fff;
   top: -15px;
   left: 10px;
@@ -802,7 +912,7 @@ body {
   font-size: 16px;
 }
 .wrapper-login .btn-submit {
-  background: #2A6EBB;
+  background: #2a6ebb;
   color: #fff;
   width: 100%;
   font-weight: bold;
@@ -822,16 +932,17 @@ body {
   display: table;
   width: 100%;
   padding: 30px 0px;
-  border: 1px solid #C9CDCF;
+  border: 1px solid #c9cdcf;
 }
-.wrapper-login .box-login-account, .wrapper-login .box-login-openID {
+.wrapper-login .box-login-account,
+.wrapper-login .box-login-openID {
   display: table-cell;
   width: 50%;
   vertical-align: middle;
   padding: 0px 30px;
 }
 .wrapper-login .box-login-openID {
-  border-left: 1px solid #C9CDCF;
+  border-left: 1px solid #c9cdcf;
   text-align: center;
 }
 .wrapper-login .box-login-openID .title {

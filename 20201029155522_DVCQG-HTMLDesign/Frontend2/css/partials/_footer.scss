@@ -4,20 +4,19 @@
 
  */
 
-.footer{
-	background:$second;
-	color:#fff;
-	padding:10px 0px;
-	text-align:center;
-	.add{
-		display:inline-block;
-		margin:5px 15px;
-		&:last-child{
-			margin-right:0px;
-		}
-
-	}
-	p{
-		margin-bottom:0px;
-	}
+.footer {
+  background: $second;
+  color: #fff;
+  padding: 10px 0px;
+  text-align: center;
+  .add {
+    display: inline-block;
+    margin: 5px 15px;
+    &:last-child {
+      margin-right: 0px;
+    }
+  }
+  p {
+    margin-bottom: 0px;
+  }
 }
