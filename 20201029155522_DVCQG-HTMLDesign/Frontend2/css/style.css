@@ -629,7 +629,7 @@ example keyframes
 
 .nav-toggle {
   display: none;
-  background: #ce7a58;
+  background: #0655a2;
   width: 36px;
   height: 36px;
   text-align: center;
@@ -702,7 +702,7 @@ example keyframes
 }
 .header-account .btn {
   margin: 0px 3px;
-  border-color: #ce7a58;
+  border-color: #0655a2;
   color: #1e2f41;
   border-radius: 3px;
   width: 130px;
@@ -712,7 +712,7 @@ example keyframes
   font-weight: 500;
 }
 .header-account .btn:hover {
-  background-color: #ce7a58;
+  background-color: #0655a2;
   color: #fff;
 }
 .header-account .user {
@@ -765,14 +765,14 @@ example keyframes
 .header-nav .menus > li.active > a,
 .header-nav .menus > li:hover > a {
   color: #fff;
-  background: #ce7a58;
+  background: #0655a2;
 }
 .header-nav .menus .dropdown-menu {
   border-radius: 0px;
   margin: 0px;
   padding: 0px;
   min-width: 100%;
-  background: #e9926f;
+  background: #004998;
   font-size: 18px;
 }
 .header-nav .menus .dropdown-menu > li {
@@ -783,12 +783,12 @@ example keyframes
   padding: 10px;
 }
 .header-nav .menus .dropdown-menu > li:hover > a {
-  background: #ce7a58;
+  background: #0655a2;
 }
 .header-nav .menus .dropdown-menu > li.active > a > a,
 .header-nav .menus .dropdown-menu > li.active > a:focus > a,
 .header-nav .menus .dropdown-menu > li.active > a:hover > a {
-  background: #ce7a58;
+  background: #0655a2;
 }
 .header-nav .menus li:hover > .dropdown-menu {
   display: block;
@@ -918,10 +918,10 @@ example keyframes
 }
 
 .hero-banner {
-  background-image: url(../img/home/banner.jpg);
+  background-image: url(../img/home/banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #ce7a58;
+  background-color: #0655a2;
   background-position: center center;
   padding: 40px 0px;
   position: relative;
@@ -942,7 +942,7 @@ example keyframes
   right: 0px;
   bottom: 0px;
   position: absolute;
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   white-space: nowrap;
 }
@@ -1014,7 +1014,7 @@ example keyframes
   text-align: center;
 }
 .box-search .adv:hover {
-  color: #903938;
+  color: #0655a2;
 }
 .box-search .btn-search {
   width: 60px;
@@ -1078,7 +1078,7 @@ example keyframes
 }
 
 .header-bottom {
-  background: #ce7a58;
+  background: #0655a2;
 }
 .header-bottom ul {
   list-style: none;
@@ -1134,11 +1134,11 @@ example keyframes
   color: #fff;
 }
 .actions-rate .btn-dislike {
-  border: 1px solid #ce7a58;
-  color: #ce7a58;
+  border: 1px solid #0655a2;
+  color: #0655a2;
 }
 .actions-rate .btn-dislike:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 @media (max-width: 480px) {
@@ -1158,7 +1158,7 @@ example keyframes
   margin-bottom: 15px;
   padding-bottom: 15px;
   cursor: pointer;
-  color: #ce7a58;
+  color: #0655a2;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
@@ -1173,7 +1173,7 @@ example keyframes
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background: #ce7a58;
+  background: #0655a2;
   height: 4px;
   border-radius: 20px;
 }
@@ -1290,7 +1290,7 @@ example keyframes
   font-size: 24px;
 }
 .hotnews-top .slick-arrow:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .hotnews-top .slick-arrow.slick-prev {
   left: 0px;
@@ -1329,9 +1329,9 @@ example keyframes
   background: rgba(206, 122, 88, 0.08);
 }
 .tab-buttons > li.active > a {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 
 .box-cat-cd {
@@ -1352,7 +1352,7 @@ example keyframes
   text-align: justify;
 }
 .main-title-sub.-color {
-  color: #ce7a58;
+  color: #0655a2;
 }
 
 .f20 {
@@ -1363,7 +1363,7 @@ example keyframes
   padding: 10px 10px;
   text-align: center;
   display: block;
-  color: #ce7a58;
+  color: #0655a2;
 }
 .readmore .icon {
   color: #f35b46;
@@ -1376,7 +1376,7 @@ example keyframes
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  background: #ce7a58;
+  background: #0655a2;
 }
 
 .marl10 {
@@ -1403,7 +1403,7 @@ example keyframes
   cursor: pointer;
 }
 .section-menu-bottom .wrap:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 @media (max-width: 768px) {
   .section-menu-bottom .wrap {
@@ -1493,14 +1493,14 @@ example keyframes
 }
 .list-document.-question a:before {
   background: none;
-  color: #ce7a58;
+  color: #0655a2;
   font-family: ap;
   content: "";
   font-size: 24px;
 }
 .list-document.-mess a:before {
   background: none;
-  color: #ce7a58;
+  color: #0655a2;
   font-family: ap;
   content: "";
   font-size: 24px;
@@ -1590,7 +1590,7 @@ example keyframes
   cursor: pointer;
 }
 .cong-dan-list .item .list-dvc span:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .cong-dan-list .item:hover,
 .cong-dan-list .item.active {
@@ -1975,7 +1975,7 @@ example keyframes
   font-family: FontAwesome;
 }
 .list-expand .title:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .list-expand .item {
   border-top: 1px solid #e9f0f8;
@@ -2027,10 +2027,10 @@ example keyframes
 }
 
 .box-wrap-search-page {
-  background-image: url(../img/home/banner.jpg);
+  background-image: url(../img/home/banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #ce7a58;
+  background-color: #0655a2;
   background-position: center center;
   padding: 30px;
   position: relative;
@@ -2063,7 +2063,7 @@ example keyframes
   border: 1px solid #8f969c;
 }
 .box-wrap-search-page.-style01 .box-search.-adv .form-control:focus {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .box-wrap-search-page.-style01 .box-search .btn-search {
   background: #f5f5f5;
@@ -2100,7 +2100,7 @@ example keyframes
 .nav-fix-tkm {
   width: 115px;
   position: fixed;
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   text-align: center;
   top: 20%;
@@ -2253,7 +2253,7 @@ example keyframes
   font-size: 20px;
   line-height: 28px;
   font-weight: 500;
-  color: #ce7a58;
+  color: #0655a2;
   display: block;
   margin-bottom: 20px;
 }
@@ -2445,7 +2445,7 @@ example keyframes
 .section-giothieu .list-roadmap .year {
   font-size: 24px;
   font-weight: 500;
-  color: #ce7a58;
+  color: #0655a2;
   margin-bottom: 20px;
 }
 .section-giothieu .list-roadmap .line {
@@ -2461,7 +2461,7 @@ example keyframes
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #ce7a58;
+  background: #0655a2;
   position: absolute;
   left: 15px;
   top: 0px;
@@ -2596,7 +2596,7 @@ example keyframes
   position: absolute;
   top: 7px;
   left: 5px;
-  color: #ce7a58;
+  color: #0655a2;
   font-family: FontAwesome;
 }
 .sidebar-news .links li:last-child {
@@ -2608,7 +2608,7 @@ example keyframes
   color: #1e2f41;
 }
 .sidebar-news .links li a:hover {
-  color: #ce7a58;
+  color: #0655a2;
   text-decoration: none;
 }
 
@@ -2804,14 +2804,14 @@ example keyframes
   border: 1px solid #b2b2b2;
   padding: 5px 30px;
   border-radius: 0px;
-  color: #ce7a58;
+  color: #0655a2;
   text-transform: uppercase;
   font-weight: 500;
 }
 .box-form-result .head .btn-add-new:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .box-form-result .table-result {
   width: 100%;
@@ -2881,7 +2881,7 @@ example keyframes
   cursor: pointer;
 }
 .select-file:hover .btn {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .select-file .file {
@@ -2894,8 +2894,8 @@ example keyframes
   cursor: pointer;
 }
 .select-file .btn {
-  border: 1px solid #ce7a58;
-  color: #ce7a58;
+  border: 1px solid #0655a2;
+  color: #0655a2;
 }
 
 .captcha {
@@ -2931,10 +2931,10 @@ example keyframes
   font-size: 24px;
   line-height: 40px;
   padding: 0px;
-  border: 1px solid #ce7a58;
+  border: 1px solid #0655a2;
 }
 .captcha .btn-reload:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 @media (max-width: 420px) {
@@ -3336,7 +3336,7 @@ example keyframes
   height: 70px;
   line-height: 70px;
   font-size: 24px;
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   border-radius: 4px;
   position: absolute;
@@ -3734,7 +3734,7 @@ example keyframes
   height: 60px;
   overflow: hidden;
   font-weight: 500;
-  color: #ce7a58;
+  color: #0655a2;
 }
 .section-account .addnew-info .desc {
   font-size: 16px;
@@ -3743,7 +3743,7 @@ example keyframes
   overflow: hidden;
 }
 .section-account .addnew-info:hover {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .section-account .danhsach {
   margin-bottom: 30px;
@@ -3862,7 +3862,7 @@ example keyframes
   border-radius: 0px;
 }
 .section-account .mydvc-list .btn-gray:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .section-account .mydvc-list .btn {
@@ -4063,7 +4063,7 @@ example keyframes
   line-height: 60px;
   text-align: center;
   background: #f5f5f5;
-  color: #ce7a58;
+  color: #0655a2;
   border-radius: 50%;
   font-size: 25px;
 }
@@ -4116,7 +4116,7 @@ example keyframes
 .box.plugin-box-wrap .plugin-info .top .title {
   font-size: 18px;
   margin-bottom: 5px;
-  color: #ce7a58;
+  color: #0655a2;
   font-weight: 500;
 }
 .box.plugin-box-wrap .plugin-info .top .number {
@@ -4147,7 +4147,7 @@ example keyframes
   text-transform: none;
   font-weight: normal;
   font-size: 16px;
-  color: #ce7a58;
+  color: #0655a2;
   min-width: 0px;
   border-radius: 0;
   width: 50%;
@@ -4157,7 +4157,7 @@ example keyframes
   border-right: 1px solid rgba(42, 110, 187, 0.2);
 }
 .box.plugin-box-wrap .plugin-info .bottom .btn:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .box.plugin-box-wrap .dienluc .plugin-info .top {
@@ -4180,7 +4180,7 @@ example keyframes
 .box.plugin-box-wrap .giao-duc .plugin-info .top .title {
   height: 49px;
   overflow: hidden;
-  color: #ce7a58;
+  color: #0655a2;
 }
 .box.plugin-box-wrap .giao-duc .plugin-info .txt {
   font-size: 16px;
@@ -4241,18 +4241,18 @@ example keyframes
 .table-color-main {
   width: 100%;
   font-size: 14px;
-  border-bottom: 1px solid #ce7a58;
+  border-bottom: 1px solid #0655a2;
 }
 .table-color-main th {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   font-weight: 500;
   text-align: center;
 }
 .table-color-main th,
 .table-color-main td {
-  border-left: 1px solid #ce7a58;
-  border-right: 1px solid #ce7a58;
+  border-left: 1px solid #0655a2;
+  border-right: 1px solid #0655a2;
   padding: 10px 10px;
 }
 
@@ -4315,7 +4315,7 @@ example keyframes
   line-height: 25px;
 }
 .box-popup-noti .desc .thick {
-  color: #ce7a58;
+  color: #0655a2;
 }
 
 .tthc .table-result-tthc th,
@@ -4330,7 +4330,7 @@ example keyframes
   border: 1px solid #e2e2e2;
 }
 .tthc .box-search.-adv .form-control:focus {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 @media (max-width: 768px) {
   .tthc .form-horizontal .form-group {
@@ -4364,7 +4364,7 @@ example keyframes
   }
 }
 .tthc .box-search.-adv .btn-search {
-  background: #ce7a58;
+  background: #0655a2;
   width: 170px;
   border-radius: 4px;
   color: #fff;
@@ -4399,7 +4399,7 @@ example keyframes
   position: absolute;
   top: 7px;
   left: 5px;
-  color: #ce7a58;
+  color: #0655a2;
   font-family: FontAwesome;
 }
 .tthc .links li:last-child {
@@ -4435,7 +4435,7 @@ example keyframes
 .tthc .table-result thead th {
   background: rgba(30, 47, 65, 0.1);
   color: #1e2f41;
-  border-bottom: 2px solid #ce7a58 !important;
+  border-bottom: 2px solid #0655a2 !important;
 }
 .tthc .table-result tr:nth-child(2n + 2) td {
   background: rgba(245, 245, 245, 0.5);
@@ -4508,7 +4508,7 @@ example keyframes
   padding-right: 275px;
 }
 .tthc .hero-banner .box-search .form-control:focus {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .tthc .hero-banner .box-search .adv {
   height: 50px;
@@ -4519,7 +4519,7 @@ example keyframes
   border-left: 1px solid #e2e2e2;
 }
 .tthc .hero-banner .box-search .adv:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .tthc .hero-banner .box-search .btn-search {
   width: 80px;
@@ -4527,7 +4527,7 @@ example keyframes
   color: #fff;
   border-radius: 0px;
   height: 60px;
-  background: #ce7a58;
+  background: #0655a2;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
 }
@@ -4551,7 +4551,7 @@ example keyframes
   }
 }
 .tthc .hero-banner .box-adv {
-  background: #ce7a58;
+  background: #0655a2;
   padding: 20px;
   position: absolute;
   top: 70px;
@@ -4740,7 +4740,7 @@ example keyframes
   list-style: none;
   margin: 0px;
   padding: 0px;
-  border-bottom: 2px solid #ce7a58;
+  border-bottom: 2px solid #0655a2;
 }
 .tthc .tabs-cq:after {
   content: "";
@@ -4797,7 +4797,7 @@ example keyframes
   }
 }
 .tthc .tabs-cq > li.active .text {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .tthc .box-chitiettthc-phienban {
@@ -4844,7 +4844,7 @@ example keyframes
   color: #1e2f41;
 }
 .tthc .sidebar .link:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 @-moz-document url-prefix() {
   .tthc .sidebar .link {
@@ -5025,10 +5025,10 @@ example keyframes
   margin-bottom: 15px;
 }
 .box-tphs .item:hover {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .box-tphs .item.active {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .box-tphs .item.active .down {
   transform: rotate(180deg);
@@ -5038,7 +5038,7 @@ example keyframes
 }
 .box-tphs .head {
   font-size: 16px;
-  color: #ce7a58;
+  color: #0655a2;
   font-weight: 500;
   padding: 10px;
   position: relative;
@@ -5080,7 +5080,7 @@ example keyframes
   font-weight: 500;
   background: rgba(30, 47, 65, 0.1);
   color: #1e2f41;
-  border-bottom: 2px solid #ce7a58;
+  border-bottom: 2px solid #0655a2;
 }
 .table-data tr:last-child td {
   border-bottom: 0px;
@@ -5342,7 +5342,7 @@ pre {
 
 .cau-hoi-pho-bien .list-questions .item {
   display: block;
-  color: #ce7a58;
+  color: #0655a2;
   padding: 14px 0px;
   cursor: pointer;
   padding-left: 30px;
@@ -5404,14 +5404,14 @@ pre {
   position: relative;
 }
 .cau-hoi-pho-bien .sidebar .menus li.active > a {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .cau-hoi-pho-bien .sidebar .menus li:hover > a {
   background: #f4f5f6;
 }
 .cau-hoi-pho-bien .sidebar .menus li.active > a {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   font-weight: bold;
 }
@@ -5451,7 +5451,7 @@ pre {
   position: fixed;
   bottom: 40px;
   right: 0px;
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
   z-index: 100;
   padding: 5px 10px;
@@ -5663,7 +5663,7 @@ body {
 .main-title .icon {
   width: 100px;
   height: 100px;
-  background: #ce7a58;
+  background: #0655a2;
   border-radius: 3px;
   position: absolute;
   top: 0px;
@@ -5705,11 +5705,11 @@ body {
 }
 
 .main {
-  color: #ce7a58 !important;
+  color: #0655a2 !important;
 }
 
 a:hover {
-  color: #ce7a58;
+  color: #0655a2;
 }
 
 .red {
@@ -5746,7 +5746,7 @@ a:hover {
   font-size: 18px;
 }
 .form-control:focus {
-  border-color: #ce7a58;
+  border-color: #0655a2;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),
     0 0 8px rgba(206, 122, 88, 0.4);
 }
@@ -5755,7 +5755,7 @@ a:hover {
   display: block;
   padding-left: 20px;
   position: relative;
-  color: #ce7a58;
+  color: #0655a2;
 }
 .url:before {
   position: absolute;
@@ -5764,7 +5764,7 @@ a:hover {
   font-family: FontAwesome;
   content: "";
   font-size: 16px;
-  color: #ce7a58;
+  color: #0655a2;
 }
 
 .tleft {
@@ -5786,7 +5786,7 @@ a:hover {
 .select2-container--default
   .select2-search--dropdown
   .select2-search__field:focus {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 
 .select2-container--default .select2-selection--single {
@@ -5795,7 +5795,7 @@ a:hover {
 
 .select2-container--default
   .select2-results__option--highlighted[aria-selected] {
-  background: #ce7a58 !important;
+  background: #0655a2 !important;
 }
 
 .overlay-common {
@@ -5854,7 +5854,7 @@ a:hover {
 }
 
 .link {
-  color: #ce7a58;
+  color: #0655a2;
   display: inline-block;
 }
 .link:hover {
@@ -5890,7 +5890,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 .btn-main:hover,
@@ -5900,12 +5900,12 @@ a:hover {
 }
 
 .btn-second {
-  border-color: #ce7a58;
+  border-color: #0655a2;
   color: #1e2f41;
   background: #fff;
 }
 .btn-second:hover {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
 }
 
@@ -5930,17 +5930,17 @@ a:hover {
 }
 .pagination > li > a,
 .pagination > li > span {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .pagination > li.active > a,
 .pagination > li.active > span {
-  background: #ce7a58;
+  background: #0655a2;
   color: #fff;
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .pagination > li:hover > a,
 .pagination > li:hover > span {
-  color: #ce7a58;
+  color: #0655a2;
 }
 @media (max-width: 768px) {
   .pagination {
@@ -5996,12 +5996,12 @@ a:hover {
   border: 1px solid #c9cdcf;
 }
 .check-action .check:checked + .name:before {
-  border-color: #ce7a58;
+  border-color: #0655a2;
   color: #fff;
   font-family: ap;
   content: "";
   font-size: 9px;
-  background: #ce7a58;
+  background: #0655a2;
   line-height: 18px;
   text-align: center;
 }
@@ -6016,13 +6016,13 @@ a:hover {
   position: absolute;
   width: 10px;
   height: 10px;
-  background: #ce7a58;
+  background: #0655a2;
   left: 5px;
   top: 5px;
 }
 .check-action input[type="radio"]:checked + .name:before {
   background: #fff;
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 
 .popup-box {
@@ -6321,7 +6321,7 @@ a:hover {
   cursor: pointer;
 }
 .box-tags .tag:hover {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 .box-tags .tag .close {
   position: absolute;
@@ -6469,7 +6469,7 @@ a:hover {
   font-weight: normal;
 }
 .upload-file:hover .btn {
-  border-color: #ce7a58;
+  border-color: #0655a2;
 }
 
 .list-files {
@@ -6555,10 +6555,10 @@ a:hover {
   background: #e2e2e2;
 }
 .tabs > li.active > a {
-  color: #ce7a58;
+  color: #0655a2;
 }
 .tabs > li.active > a:before {
-  background: #ce7a58;
+  background: #0655a2;
 }
 .tabs.-style01 {
   border-bottom: 0px;
@@ -6621,7 +6621,7 @@ a:hover {
   .select2-results__option--highlighted[aria-selected],
 .select2-container--default
   .select2-results__option--highlighted[aria-selected] {
-  background: #ce7a58;
+  background: #0655a2;
 }
 
 .chosen-container-multi .chosen-choices {
